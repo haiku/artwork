@@ -1,0 +1,6 @@
+Haiku Desktop Background
+Haiku Slide
+ 
+Copyright 2020, Allan Nyholm Nielsen, allannyholm@me.com
+
+Licensed under CC Attribution-ShareAlike 4.0 International.   
