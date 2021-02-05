@@ -1,8 +1,0 @@
-Haiku Desktop Background
-Tumble Leaves
-
-Created by Humdinger under Haiku, using WonderBrush.
-Copyright 2020, Humdinger <humdingerb@gmail.com>.
-Licensed under CC Attribution-ShareAlike 4.0 International.
-
-Resize to desired resolution and cut off top and bottom.
