@@ -6,11 +6,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1275"
    height="3000"
    viewBox="0 0 1275 3000"
    id="svg2"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="Roll-Up Banner.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1737"
+     inkscape:window-height="964"
+     id="namedview130"
+     showgrid="false"
+     inkscape:zoom="0.31466667"
+     inkscape:cx="508.27945"
+     inkscape:cy="3.7874222"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <title
      id="title4302">Haiku Roll-Up Banner</title>
   <defs
@@ -449,7 +473,7 @@
          id="tspan5467"
          x="272.75879"
          y="270.20645"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">#haiku@freenode</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">#haiku@oftc</tspan></text>
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 50,164.86221 150,0 0,125 -100,0 -50,50 25,-50 -25,0 z"
