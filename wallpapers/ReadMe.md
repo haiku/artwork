@@ -4,9 +4,6 @@ Previews of the wallpapers (note: for some, there are more variations):
 
 -----
 
-Allan Nyholm Nielsen - Haiku Fragmented   
-![Allan Nyholm Nielsen - Haiku Fragmented](_previews/allan-nyholm-nielsen_haiku-fragmented_preview.png)
-
 Allan Nyholm Nielsen - Haiku Slide   
 ![Allan Nyholm Nielsen - Haiku Slide](_previews/allan-nyholm-nielsen_haiku-slide_preview.png)
 
@@ -14,10 +11,16 @@ Andrea di Varmo - IQ
 ![Andrea di Varmo - IQ](_previews/andrea-di-varmo_iq_preview.png)
 
 Andrii Maykovsky - Accuracy (*altogether 6 variations*)   
-![Andrii Maykovsky - Accuracy](_previews/andrii-maykovsky_accuracy_preview.png)
+![Andrii Maykovsky - Accuracy](_previews/andrii-maykovski_preview.webp)
 
-Cartoon - Network - Leaks   
-![Cartoon - Network - Leaks](_previews/cartoon_network_leaks_preview.png)
+Braelin Michelus - Beauty in Simplicity (*altogether 4 variations*)   
+![Braelin Michelus - Beauty in Simplicity](_previews/braelin-michelus_beauty-in-simplicity_preview.webp)
+
+Braelin Michelus - Yesterday's Future   
+![Braelin Michelus - Yesterday's Future](_previews/braelin-michelus_yesterdays-future_preview.png)
+
+Braelin Michelus - Shining Harmony   
+![Braelin Michelus - Shining Harmony](_previews/braelin-michelus_shining-harmony_preview.png)
 
 Dahyun Lee - Momiji - Flow (*altogether 4 variations, to be used tiled*)   
 ![Dahyun Lee - Momiji - Flow](_previews/dahyun-lee_momiji_flow_preview.png)
@@ -25,32 +28,29 @@ Dahyun Lee - Momiji - Flow (*altogether 4 variations, to be used tiled*)
 Humdinger - Tumble Leaves   
 ![Humdinger - Tumble Leaves](_previews/humdinger_tumble-leaves_preview.png)
 
-Julius Enriquez - Fallingleaf yellow dark outline (*altogether 6 variations*)   
-![Julius Enriquez - Fallingleaf yellow dark outline](_previews/julius-enriquez_fallingleaf-yellow-dark-outline_preview.png)
+Julius Enriquez - Falling Leaf (*altogether 6 variations*)   
+![Julius Enriquez - Falling Leaf](_previews/julius-enriquez_falling-leaf_preview.webp)
 
-Julius Enriquez - Linearleaf bluish (*altogether 12 variations*)   
-![Julius Enriquez - Linearleaf bluish](_previews/julius-enriquez_linearleaf-bluish_preview.png)
+Julius Enriquez - Linear Leaf (*altogether 12 variations*)   
+![Julius Enriquez - Linear Leaf](_previews/julius-enriquez_linear-leaf_preview.webp)
 
-Michele Frau zuMi - Cociu berry (*altogether 6 variations*)   
-![Michele Frau zuMi - Cociu berry](_previews/michele-frau-zumi_cociu-berry_preview.png)
+Michele Frau zuMi - Cociu (*altogether 12 variations*)   
+![Michele Frau zuMi - Cociu](_previews/michele-frau-zumi_cociu_preview.webp)
 
-Michele Frau zuMi - Obrexit teal (*altogether 6 variations*)   
-![Michele Frau zuMi - Obrexit teal](_previews/michele-frau-zumi_obrexit-teal_preview.png)
+Michele Frau zuMi - Obrexit (*altogether 12 variations*)   
+![Michele Frau zuMi - Obrexit](_previews/michele-frau-zumi_obrexit_preview.webp)
 
-Michele Frau zuMi - Scurigat steel (*altogether 6 variations*)   
-![Michele Frau zuMi - Scurigat steel](_previews/michele-frau-zumi_scurigat-steel_preview.png)
+Michele Frau zuMi - Scurigat (*altogether 12 variations*)   
+![Michele Frau zuMi - Scurigat](_previews/michele-frau-zumi_scurigat_preview.webp)
 
-Oto Rudovičs - Drop Of Haiku - Autumn (*altogether 6 variations*)   
-![Oto Rudovičs - Drop Of Haiku - Autumn](_previews/oto-rudovics_drop-of-haiku_autumn_preview.png)
+Oto Rudovičs - Drop Of Haiku (*altogether 8 variations*)   
+![Oto Rudovičs - Drop Of Haiku - Autumn](_previews/oto-rudovics_drop-of-haiku_preview.webp)
+
+Roly - Haiku Blue   
+![Roly - Haiku Blue](_previews/roly_haiku-blue_preview.png)
 
 shainer - Autumn Leaves   
 ![shainer - Autumn Leaves](_previews/shainer_autumn-leaves_preview.png)
-
-transformat - glitched_beach (*altogether 6 variations*)   
-![transformat - glitched_beach](_previews/transformat_glitched_beach_preview.png)
-
-transformat - glitched_scan_grey_leaves   
-![transformat - glitched_scan_grey_leaves](_previews/transformat_glitched_scan-grey-leaves_preview.png)
 
 transformat - teapot_and_a_glitch   
 ![transformat - teapot_and_a_glitch](_previews/transformat_teapot_and_a_glitch-preview.png)
