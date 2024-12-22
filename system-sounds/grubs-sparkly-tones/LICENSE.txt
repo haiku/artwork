@@ -1,4 +1,0 @@
-    Haiku System Sounds   
-    [grubs-sparkly-tones]    
-    Copyright 2020, [Garrett Kabler] <garrettkabler@gmail.com>   
-    Licensed under CC Attribution-ShareAlike 4.0 International. 
